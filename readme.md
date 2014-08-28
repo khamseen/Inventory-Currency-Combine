@@ -7,7 +7,7 @@ Installation
 ============
 **Clean Epoch**<br>
 Use this if you don't already have a custom compiles.sqf or anything which adds right click functions to items in your inventory.<br>
-[Installation Instructions] (somelink)<br>
+[Installation Instructions] (https://github.com/khamseen/Inventory-Currency-Combine/blob/master/Clean_Epoch.md)<br>
 **Modded Epoch**<br>
 Use this if you already have a custom compiles.sqf but don't have anything which adds right click options to items in your inventory.<br>
-[Installation Instructions] (somelink)<br>
+[Installation Instructions] (https://github.com/khamseen/Inventory-Currency-Combine/blob/master/Modded_Epoch.md)<br>
