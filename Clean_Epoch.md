@@ -9,7 +9,7 @@ Installation
 First, unpack your mission file.<br>
 Now copy the "scripts" and "dayz_code" folders to your mission directory.<br>
 
-**STEP 2 (Modifying init.sqf)**
+**STEP 2 (Modifying init.sqf)**<br>
 Find
 	
 	call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf";				//Compile regular functions
@@ -20,7 +20,7 @@ After that, add
 
 SAVE AND CLOSE<br>
 	
-**STEP 3 (Modifying description.ext)**
+**STEP 3 (Modifying description.ext)**<br>
 At the end of the file, add
 
 	//Right Click Gear Options
