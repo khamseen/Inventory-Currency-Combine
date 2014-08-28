@@ -10,7 +10,7 @@ First, unpack your mission file.<br>
 Now copy the "scripts" and "dayz_code" folders to your mission directory.<br>
 If you already have a custom compiles.sqf, then remove mine from dayz_code\init\compiles.sqf<br>
 
-**STEP 2 (Modifying init.sqf)**
+**STEP 2 (Modifying init.sqf)**<br>
 **If you already have a custom compiles.sqf, you can skip this step.**<br>
 Find
 	
@@ -32,6 +32,9 @@ Replace it with
 
 	easy_currency_combine		= compile preprocessFileLineNumbers "scripts\combineCurrency.sqf";	//Used for the easy currency combine script
 	player_selectSlot = compile preprocessFileLineNumbers "dayz_code\compile\ui_selectSlot.sqf"; //Used for right click gear items
+
+**If you don't have the line, then simply add them!**<br>
+SAVE AND CLOSE<br>
 
 **STEP 4 (Modifying description.ext)**
 At the end of the file, add
